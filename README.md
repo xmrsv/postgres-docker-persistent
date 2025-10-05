@@ -56,7 +56,7 @@ Una vez que el contenedor esté ejecutándose, puedes conectarte usando cualquie
 
 A continuación se muestra un ejemplo de configuración de conexión usando DBeaver:
 
-![Ejemplo de conexión con DBeaver](image.png)
+![Ejemplo de conexión con DBeaver](https://i.imgur.com/2GXN0G1.png)
 
 ### Conexión por línea de comandos
 
